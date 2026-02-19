@@ -31,7 +31,7 @@ Star this repo to follow along!
 
 ### Roadmap
 - [x] v0.1 — Basic arithmetic (+, -, *, /) & parentheses
-- [x] v0.2 — Fractions (`\frac`)
+- [x] v0.2 — Fractions (`\frac`) & mixed numbers
 - [ ] v0.3 — Exponents & subscripts (`^`, `_`)
 - [ ] v0.4 — Square roots (`\sqrt`)
 - [ ] v0.5 — Trigonometric functions
