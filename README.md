@@ -55,10 +55,10 @@ After installation, you can use it in your Python code as follows:
 ```python
 from kmathbraille import to_braille as tb
 
-print(tb(r"\frac{1}{2}"))  # 결과: ⠼⠃⠌⠼⠁ (분수)
-print(tb(r"x^{2}"))        # 결과: ⠭⠘⠼⠃ (지수)
-print(tb(r"\sqrt{2}"))     # 결과: ⠜⠼⠃ (제곱근)
-print(tb(r"\sin{x}"))      # 결과: ⠖⠎⠭ (삼각함수)
+print(tb(r"\frac{1}{2}"))  # Output: ⠼⠃⠌⠼⠁ (Fractions)
+print(tb(r"x^{2}"))        # Output: ⠭⠘⠼⠃ (Exponents & subscripts)
+print(tb(r"\sqrt{2}"))     # Output: ⠜⠼⠃ (Square roots)
+print(tb(r"\sin{x}"))      # Output: ⠖⠎⠭ (Trigonometric functions)
 ```
 
 ---
