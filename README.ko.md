@@ -1,21 +1,20 @@
 🇰🇷 한국어 | [🇺🇸 English](./README.md)
 
-# kobraille ⠿
+# kmathbraille ⠿
 
-> LaTeX 수학 수식을 한국 점자(KS X 1107)로 변환하는
-> 파이썬 라이브러리 입니다. 
+> LaTeX 수학 수식을 한국 수학 점자로 변환하는 파이썬 라이브러리 입니다.  
+> (문화체육관광부고시 제2024-0005호)
 
-by [Qualia Bridge](https://github.com/qualia-bridge)
+by [Qualia Bridge](https://www.linkedin.com/in/boram0905)
 
 ---
 
-## ✨ 왜 kobraille인가요?
+## ✨ 왜 kmathbraille인가요?
 
-한국의 시각장애 학생들은 점자로 수학 교육에
-접근하기 어려운 경우가 많습니다.
-또한 기존 도구들은 정확성, 투명성, 확장성이 부족했습니다.
+한국의 시각장애 학생들은 점자로 수학 교육에 접근하기 어려운 경우가 많습니다.  
+또한 기존 도구들은 정확성, 투명성, 확장성이 부족했습니다.  
 
-kobraille은 보기 드문 세 가지를 갖춘 사람이 만들었습니다:
+kmathbraille은 보기 드문 세 가지를 갖춘 사람이 만들었습니다:  
 
 - 📖 점자 전문가
 - 📊 통계 및 데이터사이언스 석사 
@@ -35,6 +34,9 @@ Star를 눌러 함께 지켜봐 주세요!
 - [x] v0.4 — 제곱근 (`\sqrt`)
 - [x] v0.5 — 삼각함수
 - [x] v1.0 — PyPI 정식 배포 🚀
+- [ ] v1.1 — 알파벳 점자 전수 검증
+- [ ] v2.0 — to be continued
+- [ ] v3.0 — to be continued
 
 ---
 
@@ -43,7 +45,7 @@ Star를 눌러 함께 지켜봐 주세요!
 pip install kobraille  
 
 from kmathbraille import to_braille as tb  
-  
+
 tb(r"\frac{1}{2}")   # ⠼⠃⠌⠼⠁  
 tb(r"x^{2}")         # ⠭⠘⠼⠃  
 tb(r"\sqrt{2}")      # ⠜⠼⠃  
