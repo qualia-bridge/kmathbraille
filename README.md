@@ -36,7 +36,7 @@ Star this repo to follow along!
 - [x] v0.4 — Square roots (`\sqrt`)
 - [x] v0.5 — Trigonometric functions
 - [x] v1.0 — PyPI release 🚀
-- [ ] v1.1 — Full validation of Alphabetic Braille using in Korea
+- [x] v1.1 — Full validation of Alphabetic Braille using in Korea
 - [ ] v2.0 — To be continued
 - [ ] v3.0 — To be continued
 
