@@ -34,7 +34,7 @@ Star를 눌러 함께 지켜봐 주세요!
 - [x] v0.4 — 제곱근 (`\sqrt`)
 - [x] v0.5 — 삼각함수
 - [x] v1.0 — PyPI 정식 배포 🚀
-- [ ] v1.1 — 알파벳 점자 전수 검증
+- [x] v1.1 — 알파벳 점자 전수 검증
 - [ ] v2.0 — to be continued
 - [ ] v3.0 — to be continued
 
